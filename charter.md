@@ -37,7 +37,7 @@ To measure the effectiveness of the Information Security Management System (ISMS
 2. **Payment Card Security (PCI-DSS Consistency):** Achieve and maintain 100% compliance with Payment Card Industry Data Security Standards (PCI-DSS) for all physical restaurant POS terminals and digital booking systems by enforcing annual PCI-DSS Self-Assessment Questionnaire (SAQ) completion and quarterly network vulnerability scans.
 3. **System Availability & Business Continuity:** Maintain a minimum of 99.99% (yearly) uptime for the online booking portal and guest check-in systems to eliminate operational downtime and revenue loss by automated tracking of hosting provider server uptimes and monthly IT infrastructure reporting.
 4. **Staff Security Awareness:** Ensure 100% of all full-time, part-time, and seasonal hotel/restaurant staff complete basic information security and data privacy training by evaluating  training completion records collected during onboarding and reinforced during annual refresher courses.
-5. **Incident Response & Remediation:** Contain any identified security anomaly or suspected data incident within two (2) hours of initial detection.
+5. **Incident Response & Remediation:** Contain any identified security anomaly or suspected data incident within one (1) hours of initial detection.
 
 These objectives will be reviewed at least annually during management reviews or immediately following any significant upgrade to the hotel's operational technologies.
 
