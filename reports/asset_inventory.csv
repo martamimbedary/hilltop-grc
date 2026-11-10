@@ -1,0 +1,17 @@
+Asset ID,Asset Name,Type,Owner,Location,Criticality
+1,Front Desk Management Terminal,Hardware,Front Desk Manager,Reception Area,High
+2,Point of Sale (POS) Terminal,Hardware,Restaurant Manager,"Restaurant , Bar",High
+3,Guest Wi-Fi Access Points (Mesh),Hardware,Network Admin,Property-wide,Medium
+4,Property Management System (PMS),Software,Operations Manager,Cloud ,Critical
+5,Online Booking Portal & Website,Software,Marketing,Cloud Web Server,Critical
+6,Guest Database (PII & Booking History),Data,Front Desk Manager,Encrypted Cloud Database,Critical
+7,CCTV Surveillance System & NVR,Hardware,Security Officer,"Security Room , Perimeter",Medium
+8,Administrative Laptops (Staff),Hardware,General Manager,Office,Medium
+9,Electronic Door Lock System Controller,Hardware & Software,Maintenance Lead,Room Doors,High
+10,Payment Gateway Service API,Service,Finance Manager,Cloud Third-Party Integration,Critical
+11,Employee Records & Payroll Data,Data,Human Resources,Secure Local Server,High
+12,Cloud Email & Communications Suite,Service,IT Administrator,Cloud Provider (Microsoft),High
+13,Main Office Wi-Fi Router & Firewall,Hardware,IT Administrator,Back Office Server Rack,High
+14,Accounting & Financial Software,Software,Finance Manager,Finance Office PC & Cloud,High
+15,Smart TV Units (Guest Rooms),Hardware,Maintenance Lead,Guest Rooms (20 units),Low
+16,Backup External Hard Drive (Local),Hardware,IT Administrator,Back Office Safe,Medium
